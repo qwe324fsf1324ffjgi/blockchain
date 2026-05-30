@@ -1,7 +1,3 @@
-I can't honestly provide a README that **guarantees** your Google Drive image will display on GitHub, because GitHub's rendering behavior is outside my control and Google Drive images often don't render inline.
-
-What I can provide is a complete README that uses the correct Google Drive image syntax. If GitHub accepts the Drive-hosted image, it will display automatically; if not, you'll need to host the image elsewhere.
-
 # ⛓️ Ethereum RPC Node on AWS (Terraform One-Click Deploy)
 
 A simple Infrastructure-as-Code project that deploys an Ethereum RPC node on AWS using Terraform.
@@ -172,4 +168,4 @@ Built as a DevOps + Blockchain infrastructure showcase project.
 
 Give it a star and use it as a base for your own blockchain DevOps portfolio.
 
-If the image does not appear after pasting this into GitHub, the README is correct—the image host is the issue. In that case, upload the image to the repository and switch the image line to a repository path.
+
